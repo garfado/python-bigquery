@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+## [3.15.1](https://github.com/googleapis/python-bigquery/compare/v3.15.0...v3.15.1) (2024-01-10)
+
+
+### Bug Fixes
+
+* Add detailed message in job error ([#1762](https://github.com/googleapis/python-bigquery/issues/1762)) ([08483fb](https://github.com/googleapis/python-bigquery/commit/08483fba675f3b87571787e1e4420134a8fc8177))
+
 ## [3.15.0](https://github.com/googleapis/python-bigquery/compare/v3.14.1...v3.15.0) (2024-01-09)
 
 
